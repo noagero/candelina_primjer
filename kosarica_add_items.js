@@ -47,11 +47,11 @@ function renderProducts2(){
 }
 
 
-if(location.pathname==="https://candelinaaa.netlify.app/proizvodi"){
+if(window.location.href==="https://candelinaaa.netlify.app/proizvodi"){
     renderProducts();
 }
 
-if(location.pathname==="https://candelinaaa.netlify.app/"){
+if(window.location.href==="https://candelinaaa.netlify.app/"){
     renderProducts2();
 }
 
