@@ -47,7 +47,7 @@ function renderProducts2(){
 }
 
 
-if(location.pathname==="/C:/Users/noage/Desktop/candelina-main/proizvodi.html"){
+if(location.pathname==="https://candelinaaa.netlify.app/proizvodi"){
     renderProducts();
 }
 
